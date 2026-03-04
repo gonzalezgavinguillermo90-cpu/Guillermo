@@ -30,3 +30,7 @@ Estos roles me han permitido desarrollar:
 - Cumplimiento de protocolos
 
 Competencias clave aplicables en el ámbito de la seguridad informática.
+
+REPOSITORIO DE EJERCICIOS DE PROGRAMACIÓN, PRIMER AÑO DE CARRERA (PYTHON):
+
+
