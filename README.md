@@ -1,9 +1,8 @@
 # Guillermo
 
-Soy estudiante de segundo curso de Ingeniería Informática con interés en especializarme en Ciberseguridad.
-Actualmente me encuentro en proceso de formación técnica, con especial motivación por la protección de sistemas y el análisis de vulnerabilidades.
+Soy estudiante de segundo curso de Ingeniería Informática en la Universidad UNIE, con especial interés en Ciberseguridad. Actualmente estoy ampliando mi formación técnica, enfocándome en la protección de sistemas, análisis de vulnerabilidades y buenas prácticas de seguridad.
 
-Me interesa especialmente comprender cómo funcionan los sistemas internamente y cómo pueden protegerse frente a amenazas.
+Me apasiona entender el funcionamiento interno de los sistemas y desarrollar soluciones para protegerlos frente a amenazas. Busco continuamente aprender nuevas tecnologías, herramientas de seguridad y metodologías para aplicar mis conocimientos en proyectos prácticos y retos de ciberseguridad.
 
 OBJETIVO PROFESIONAL:
 Desarrollarme como profesional en el ámbito de la ciberseguridad, adquiriendo experiencia en:
