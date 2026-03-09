@@ -80,11 +80,11 @@ Ejercicio 4: Escribe un programa que solicite al usuario dos cadenas de caracter
 Este programa en Python solicita al usuario que introduzca dos cadenas de texto y las convierte a minúsculas usando el método lower() para evitar diferencias entre mayúsculas y minúsculas. Después cuenta cuántas veces aparece la letra "a" en cada cadena utilizando count("a"). Finalmente compara ambos resultados: si la primera cadena contiene más letras "a" que la segunda, se imprime la primera; en caso contrario, se muestra la segunda cadena. De esta manera, el programa determina cuál de las dos tiene mayor cantidad de la letra "a".
 
 
-Ejercicio 5: Escribe un programa que solicite al usuario dos cadenas de caracteres e imprima por pantalla la cadena con mayor número de letras “a”, ya sean mayúsculas o minúsculas.
+Ejercicio 5: Escribe un programa que pida al usuario una cadena de caracteres e imprima de vuelta la cadena, reemplazando todas las ocurrencias del primer caracter por el caracter “#”, con la excepción del primer carácter, que quedará igual. Aquí puedes ver un ejemplo de la salida esperada:
 
-<img width="532" height="361" alt="Captura de pantalla 2026-03-09 170506" src="https://github.com/user-attachments/assets/9434b5cb-aaab-4d9f-9089-5330271cb32e" />
+<img width="706" height="221" alt="Captura de pantalla 2026-03-09 173850" src="https://github.com/user-attachments/assets/ab68c82c-f554-43b5-b5f3-cff63d9ba579" />
 
-Este programa en Python solicita al usuario que introduzca dos cadenas de texto y las convierte a minúsculas usando el método lower() para evitar diferencias entre mayúsculas y minúsculas. Después cuenta cuántas veces aparece la letra "a" en cada cadena utilizando count("a"). Finalmente compara ambos resultados: si la primera cadena contiene más letras "a" que la segunda, se imprime la primera; en caso contrario, se muestra la segunda cadena. De esta manera, el programa determina cuál de las dos tiene mayor cantidad de la letra "a".
+Este ejercicio en Python pide al usuario que ingrese una cadena de caracteres y luego crea una nueva versión de esa cadena en la que todas las apariciones del primer carácter (excepto la primera) se reemplazan por el símbolo #. Primero, se guarda el primer carácter de la cadena en primer_caracter y el resto de la cadena en resto_cadena. Luego, se utiliza el método replace para cambiar todas las ocurrencias de ese carácter en resto_cadena por #. Finalmente, se imprime la nueva cadena combinando el primer carácter original con el resto modificado. Esto permite visualizar de manera sencilla cómo se puede manipular y transformar cadenas de texto en Python.
 
 
 CONCLUSIÓN GENERAL:
