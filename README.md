@@ -60,3 +60,13 @@ Ejercicio 2: Escribe un programa que solicite al usuario dos cadenas de caracter
 <img width="782" height="302" alt="Captura de pantalla 2026-03-09 154216" src="https://github.com/user-attachments/assets/35c85e2d-580e-4522-9fa6-7866430299ff" />
 
 Este programa pide al usuario que introduzca dos cadenas de caracteres y luego compara la longitud de ambas para determinar cuál es más larga. Para hacerlo, se utiliza la función len() para obtener el número de caracteres de cada cadena. Después, mediante una condición (if), se comparan las longitudes y el programa muestra en pantalla la cadena que tiene mayor tamaño. De esta forma se puede identificar fácilmente cuál de las dos cadenas introducidas contiene más caracteres.
+
+
+Ejercicio 3: Escribe un programa que, dada la cadena de caracteres introducida por el usuario, genere una nueva cadena de caracteres que contenga la primera mitad de los caracteres de la cadena inicial y la imprima por pantalla.
+
+En caso de que la longitud de la cadena introducida sea inferior a 2, el programa imprimirá un mensaje por pantalla y finalizará.
+¿Qué ocurre si la longitud de la cadena introducida es impar?
+
+<img width="1372" height="257" alt="Captura de pantalla 2026-03-09 170110" src="https://github.com/user-attachments/assets/8193efba-1555-46f7-b7f9-5770e26bb09d" />
+
+Este programa en Python pide al usuario que introduzca una cadena de caracteres y calcula la posición de la mitad de la cadena usando len(cadena)/2, convirtiéndola a entero con int() para obtener un índice válido. Luego comprueba si la longitud de la cadena es al menos 2; si lo es, imprime la primera mitad de la cadena utilizando slicing (cadena[:indice_mitad]). Si la cadena tiene menos de 2 caracteres, muestra un mensaje indicando que la longitud es insuficiente. De esta forma, el programa evita errores y solo procesa cadenas con una longitud mínima.
