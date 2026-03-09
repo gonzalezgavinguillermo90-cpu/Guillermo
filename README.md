@@ -32,5 +32,9 @@ Estos roles me han permitido desarrollar:
 Competencias clave aplicables en el ámbito de la seguridad informática.
 
 REPOSITORIO DE EJERCICIOS DE PROGRAMACIÓN, PRIMER AÑO DE CARRERA (PYTHON):
+Ejercicio 1: Escribe un programa que, dada una cadena de caracteres, imprima cada caracter en una línea diferente.
+
+Nota: No es necesario que el programa solicite al usuario que introduzca por teclado la cadena de caracteres, esta puede crearse en una variable del programa.
+
 
 
