@@ -31,6 +31,18 @@ Estos roles me han permitido desarrollar:
 
 Competencias clave aplicables en el ámbito de la seguridad informática.
 
+Próximos proyectos
+
+Este perfil de GitHub lo utilizaré para documentar mi proceso de aprendizaje, incluyendo:
+
+- Ejercicios de programación
+- Proyectos académicos
+- Apuntes y recursos sobre ciberseguridad
+
+Contacto:
+
+LinkedIn: https://www.linkedin.com/in/guille-gonzalez-gavin-27b544385/
+
 REPOSITORIO DE EJERCICIOS DE PROGRAMACIÓN, PRIMER AÑO DE CARRERA (PYTHON):
 Ejercicio 1: Escribe un programa que, dada una cadena de caracteres, imprima cada caracter en una línea diferente.
 
