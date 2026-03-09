@@ -59,3 +59,4 @@ Ejercicio 2: Escribe un programa que solicite al usuario dos cadenas de caracter
 
 <img width="782" height="302" alt="Captura de pantalla 2026-03-09 154216" src="https://github.com/user-attachments/assets/35c85e2d-580e-4522-9fa6-7866430299ff" />
 
+Este programa pide al usuario que introduzca dos cadenas de caracteres y luego compara la longitud de ambas para determinar cuál es más larga. Para hacerlo, se utiliza la función len() para obtener el número de caracteres de cada cadena. Después, mediante una condición (if), se comparan las longitudes y el programa muestra en pantalla la cadena que tiene mayor tamaño. De esta forma se puede identificar fácilmente cuál de las dos cadenas introducidas contiene más caracteres.
