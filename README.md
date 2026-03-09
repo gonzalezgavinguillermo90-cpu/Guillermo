@@ -36,5 +36,11 @@ Ejercicio 1: Escribe un programa que, dada una cadena de caracteres, imprima cad
 
 Nota: No es necesario que el programa solicite al usuario que introduzca por teclado la cadena de caracteres, esta puede crearse en una variable del programa.
 
+cadena = input("introduce una cadena: ")
+longitud = len(cadena)
+contador = 0 #toma valor cero por que el primer indice de la cadena esta en la posicion cero
+while contador < longitud:
+  print(cadena[contador])
+  contador = contador + 1
 
 
