@@ -54,3 +54,8 @@ Nota: No es necesario que el programa solicite al usuario que introduzca por tec
 
 Este programa en Python pide al usuario que introduzca una cadena de texto y luego muestra cada uno de sus caracteres en una línea diferente. Primero se guarda el texto en la variable cadena y se calcula su longitud con len(), almacenándola en longitud. Después se inicializa un contador en 0 porque los índices de las cadenas empiezan en esa posición. Con un bucle while, el programa va recorriendo la cadena mientras el contador sea menor que la longitud, imprime el carácter correspondiente (cadena[contador]) y luego aumenta el contador en 1 para pasar al siguiente carácter. De esta forma se recorren e imprimen todos los caracteres de la cadena uno por uno.
 
+
+Ejercicio 2: Escribe un programa que solicite al usuario dos cadenas de caracteres e imprima por pantalla la cadena con mayor tamaño.
+
+<img width="782" height="302" alt="Captura de pantalla 2026-03-09 154216" src="https://github.com/user-attachments/assets/35c85e2d-580e-4522-9fa6-7866430299ff" />
+
