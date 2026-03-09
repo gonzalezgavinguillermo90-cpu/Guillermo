@@ -44,6 +44,7 @@ Contacto:
 LinkedIn: https://www.linkedin.com/in/guille-gonzalez-gavin-27b544385/
 
 REPOSITORIO DE EJERCICIOS DE PROGRAMACIÓN, PRIMER AÑO DE CARRERA (PYTHON):
+
 Ejercicio 1: Escribe un programa que, dada una cadena de caracteres, imprima cada caracter en una línea diferente.
 
 Nota: No es necesario que el programa solicite al usuario que introduzca por teclado la cadena de caracteres, esta puede crearse en una variable del programa.
@@ -70,3 +71,16 @@ En caso de que la longitud de la cadena introducida sea inferior a 2, el program
 <img width="1372" height="257" alt="Captura de pantalla 2026-03-09 170110" src="https://github.com/user-attachments/assets/8193efba-1555-46f7-b7f9-5770e26bb09d" />
 
 Este programa en Python pide al usuario que introduzca una cadena de caracteres y calcula la posición de la mitad de la cadena usando len(cadena)/2, convirtiéndola a entero con int() para obtener un índice válido. Luego comprueba si la longitud de la cadena es al menos 2; si lo es, imprime la primera mitad de la cadena utilizando slicing (cadena[:indice_mitad]). Si la cadena tiene menos de 2 caracteres, muestra un mensaje indicando que la longitud es insuficiente. De esta forma, el programa evita errores y solo procesa cadenas con una longitud mínima.
+
+
+Ejercicio 4: Escribe un programa que solicite al usuario dos cadenas de caracteres e imprima por pantalla la cadena con mayor número de letras “a”, ya sean mayúsculas o minúsculas.
+
+<img width="612" height="337" alt="Captura de pantalla 2026-03-09 170334" src="https://github.com/user-attachments/assets/bf3361fe-cf48-46d8-9382-cadfdd5416c1" />
+
+Este programa en Python solicita al usuario que introduzca dos cadenas de texto y las convierte a minúsculas usando el método lower() para evitar diferencias entre mayúsculas y minúsculas. Después cuenta cuántas veces aparece la letra "a" en cada cadena utilizando count("a"). Finalmente compara ambos resultados: si la primera cadena contiene más letras "a" que la segunda, se imprime la primera; en caso contrario, se muestra la segunda cadena. De esta manera, el programa determina cuál de las dos tiene mayor cantidad de la letra "a".
+
+
+Ejercicio 5: Escribe un programa que solicite al usuario dos cadenas de caracteres e imprima por pantalla la cadena con mayor número de letras “a”, ya sean mayúsculas o minúsculas.
+
+<img width="532" height="361" alt="Captura de pantalla 2026-03-09 170506" src="https://github.com/user-attachments/assets/9434b5cb-aaab-4d9f-9089-5330271cb32e" />
+
